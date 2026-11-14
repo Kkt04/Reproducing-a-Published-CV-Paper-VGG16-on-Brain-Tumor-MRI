@@ -3,6 +3,7 @@
 
 > An independent reproduction of a VGG16 brain tumor classifier, a duplicate-image audit of its test set, and a pre-registered single-variable experiment: **Flatten vs Global Average Pooling (GAP)**.
 
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20-orange)
 ![Task](https://img.shields.io/badge/Task-4--class%20MRI%20classification-teal)
